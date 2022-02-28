@@ -1,0 +1,16 @@
+id: P040F6B84
+initial_creation_type: input
+source_metadata:
+  title: Āryaśūra Series
+  language: nl
+  description: Texts by the great Indian master Āryaśūra, known to Tibetans as Lobpon
+    Pawo (slob dpon dpa' bo), author of the famous Garland of Birth Stories (Jātakamālā)
+  volume:
+    76b4e86dac7e47f5ad846a9234473e33:
+      title: Short Praise of the Buddha's Deeds
+      parent: Praise
+    d8892cd506794b3b93778bd11161fc9a:
+      title: Verses on the Buddha's Previous Lives
+      parent: Prayers
+created_at: '2022-03-01T02:08:51.635969'
+last_modified_at: '2022-03-01T02:08:51.635971'
